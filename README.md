@@ -9,6 +9,10 @@ For ``monospaced text``, use two "backquotes" instead.
 
 ``teste de fonte monoespaçada``...
 
+    teste com espaços::
+    teste
+    teste
+
 
 ![foto escrita minha](https://miro.medium.com/max/700/1*hVR5oeGoDfPlQw4mjfP3gA.jpeg)
 
