@@ -1,8 +1,8 @@
 # copy
 copy copy copy
 
-COPY
+*COPY*
 
-aqui vou colocar meus textos.
+aqui **vou** colocar meus textos.
 
 Edu
