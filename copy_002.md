@@ -2,7 +2,6 @@
 
 ## Define de uma vez por todas
 ## o que tu quer fazer da tua vida
-fazer da tua vida
 
 Quantas pessoas tu provavelmente conhece que ficam dias, 
 ou meses, ou quem sabe até anos pensando e pensando e pensando,
@@ -11,7 +10,8 @@ e quais seriam seus resultados hipotéticos, só que....
 
 NUNCA DECIDEM NADA.
 
-Ficam eternamente calculando, como se a vida fosse
+Ficam eternamente calculando...
+como se a vida fosse
 um eterno jogo de xadrez. Só que aí também essa pessoa
 se ENGANA profundamente, porque...
 
