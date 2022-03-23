@@ -1,8 +1,6 @@
-A
-
 # DECIDE TUA VIDA
 
-## Define de uma vez por todas o que tu quer
+## Define de uma vez por todas :: o que tu quer fazer da tua vida
 fazer da tua vida
 
 Quantas pessoas tu provavelmente conhece que ficam dias, 
