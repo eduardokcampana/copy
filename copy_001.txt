@@ -2,4 +2,10 @@ copy_001.txt
 
 Testando esta plataforma para escrever.
 
-Consigo ESCREVER dentro de qualquer navegador, do computador desktop no trabalho, no laptop em casa, no SMARTPHONE, no tablet... enfim, de qualquer lugar..
+Consigo ESCREVER dentro de qualquer navegador, 
+do computador desktop no trabalho, no laptop em casa, 
+no SMARTPHONE, no tablet... enfim, de qualquer lugar..
+
+![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
+
+Imagem colocada
