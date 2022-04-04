@@ -9,3 +9,13 @@ no SMARTPHONE, no tablet... enfim, de qualquer lugar..
 ![Isso é uma imagem](https://myoctocat.com/assets/images/base-octocat.svg)
 
 Imagem colocada
+
+# H1
+
+## H2
+
+### H3
+
+*itálico*
+
+**negrito**
